@@ -9,5 +9,5 @@ tienen un nivel de encapsulamiento “private”, por lo que estos atributos sol
 son modificables por medio de sus clases correspondientes. Se puede ver también
 que existe una relación de dependencia entre la clase CarroCompra y la clase 
 Calculadora, ya que en el método “subtotal” de la clase CarroCompra se instancia 
-un objeto Calculadora, para luego utilizar uno de los metodos en el objeto creado.
+un objeto Calculadora, para luego utilizar uno de los metodos en el objeto creado (multiplicar).
 
